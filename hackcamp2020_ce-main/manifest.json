@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Pomodoro Timer :)",
+  "description": "25 min timer with cute mascot",
+  "version": "1.0.0",
+  "icons": { "128": "icon128-1.png" },
+  "browser_action": {
+    "default_popup": "popup.html"
+    
+  },
+  "permissions": ["activeTab"]
+}
